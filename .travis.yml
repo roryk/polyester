@@ -1,6 +1,5 @@
 language: r
 bioc_required: true
-
 notifications:
   email:
     on_success: change
